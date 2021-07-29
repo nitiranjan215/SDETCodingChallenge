@@ -1,0 +1,4 @@
+[
+  {"firstName":"Tester1", "lastName":"Bester1", "age":"25", "address":"1234 Test Circle", "salary":125000},
+  {"firstName":"Tester2", "lastName":"Bester2", "age":"40", "address":"1234 Test Circle", "salary":900000}
+]
